@@ -9,7 +9,7 @@ To achieve this goal, each agent takes action by sending the environment a vecto
 The environment is considered "solved" the maximum of the two agents' scores for each episode is at least +0.5, when averaged over a 100-episode rolling window.
 
 ## My Solution
-To solve the environment, I implemented an Multi-Agent Q Actor Critic model with n-step rollout.  For more details on my findings, see the writeup in [report.ipynb](report.ipynb).
+To solve the environment, I implemented an Multi-Agent Deep Deterministic Policy Gradient model.  For more details on my findings, see the writeup in [report.ipynb](report.ipynb).
 
 ## Getting Started
 
