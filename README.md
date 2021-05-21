@@ -1,4 +1,4 @@
-# Udacity Deep Reinforcement Learning Project 2: Continuous Control
+# Udacity Deep Reinforcement Learning Project 3: Collaboration and Competition
 
 ## Project Details
 The code in this repo interacts with a modified version of the [Tennis Environment.](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md#tennis)
